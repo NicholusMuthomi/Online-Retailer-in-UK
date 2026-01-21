@@ -1,5 +1,3 @@
-# Online-Retailer-in-UK
-
 # UK Online Retail Data Analysis
 
 ## Overview
